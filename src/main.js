@@ -1,4 +1,4 @@
-import iziToast from 'izitoast';/
+import iziToast from 'izitoast';
 import SimpleLightbox from 'simplelightbox';
 import { fetchPhotos } from './js/pixabay-api';
 import { createGalleryCard } from './js/render-functions';
