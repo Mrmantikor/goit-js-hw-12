@@ -7,6 +7,10 @@
   інтерфейсу (додавання/оновлення елементів галереї, відображення лоедера).
 - У файлі **main.js** напиши всю логіку роботи додатка.
 
+```
+Зверни увагу! Імена файлів та папок, а також їх структура вкладеності, мають відповідати вказаній схемі. В іншому разі робота не буде прийнята.
+```
+
 ![Image](https://github.com/user-attachments/assets/6dc5e76b-0a86-4ce8-bfa4-852288899eee)
 
 ### Завдання — Пошук зображень
@@ -45,7 +49,7 @@ Pixabay API підтримує пагінацію та надає парамет
 
 Переглянь демо-відео роботи застосунку на цьому етапі.
 
-https://github.com/user-attachments/assets/4151bde9-c8d7-45eb-9db9-ed6b1fb4fd61
+https://github.com/user-attachments/assets/f1691651-5c30-462e-8771-934dcb23c610
 
 ### Кінець колекції
 
@@ -60,7 +64,7 @@ We're sorry, but you've reached the end of search results.
 
 Переглянь демо-відео роботи застосунку на цьому етапі.
 
-https://github.com/user-attachments/assets/f1691651-5c30-462e-8771-934dcb23c610
+https://github.com/user-attachments/assets/4151bde9-c8d7-45eb-9db9-ed6b1fb4fd61
 
 ### Прокручування сторінки
 
